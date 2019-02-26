@@ -4,6 +4,7 @@ import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
 import 'toastr/build/toastr.css'
+import 'antd/dist/antd.css';
 
 ReactDOM.render(<App />, document.getElementById('root'));
 
